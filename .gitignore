@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Init: Grok Video Generator"
+git remote add origin https://github.com/wxkjzeex/grok-video-site.git
+git push -u origin main
